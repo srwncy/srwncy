@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=M.Servan%20YILDIZ%20⚙️&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Architect%20%7C%20Full%20Stack%20Engineer%20%7C%20Automation%20Alchemist&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F57C00,100:E65100&height=220&section=header&text=M.Servan%20YILDIZ%20⚙️&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Architect%20%7C%20Full%20Stack%20Engineer%20%7C%20Automation%20Alchemist&descAlignY=60)
 
 <div align="center">
 
@@ -97,4 +97,4 @@ root@serwanyldz:~# whoami
 > “Code like an artist, deploy like a villain.”  
 > — S.Y.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E65100,100:F57C00&height=120&section=footer)
