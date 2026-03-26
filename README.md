@@ -3,7 +3,7 @@
 <div align="center">
 
 ```
-root@serwanyldz:~# whoami  
+root@srwncy:~# whoami  
 > Architect of Chaos | System Whisperer | Automation Artist
 ```
 
