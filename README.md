@@ -16,8 +16,8 @@ root@srwncy:~# whoami
 ⚙️ Turning **infrastructure** into art, **code** into clarity, and **chaos** into automation.  
 🧩 Focused on **DevOps**, **cloud**, and **self-healing infrastructures**.  
 💬 Fluent in `TypeScript`, `Python`, `Bash`, and sarcasm.  
-🌙 Most productive between 2AM and “just one more deploy.”  
-🕶️ Motto: *“If it scales, it lives. If it doesn’t, it learns.”*
+🌙 Most productive between 2AM and "just one more deploy."  
+🕶️ Motto: *"If it scales, it lives. If it doesn't, it learns."*
 
 ---
 
@@ -48,19 +48,9 @@ root@srwncy:~# whoami
 
 - 🧩 Reverse-engineer first, document later.  
 - ☕ Coffee consumption = uptime.  
-- 💀 I don’t debug — I *summon* the bug and negotiate.  
-- 🔥 I never panic when the server’s on fire. I just scale horizontally.  
+- 💀 I don't debug — I *summon* the bug and negotiate.  
+- 🔥 I never panic when the server's on fire. I just scale horizontally.  
 - 🧙 I prefer my YAML clean and my logs structured.
-
----
-
-## 🧩 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ServanYildiz-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/servanyildiz)
-[![Twitter](https://img.shields.io/badge/Twitter-%40serwanyldz-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-ffffff?style=for-the-badge&logo=firefox)]()
-[![DockerHub](https://img.shields.io/badge/DockerHub-serwanyldz-2496ED?style=for-the-badge&logo=docker)](https://hub.docker.com/u/serwanyldz)
-[![Mail](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serwanyldz@gmail.com)
 
 ---
 
@@ -68,7 +58,7 @@ root@srwncy:~# whoami
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=serwanyldz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=srwncy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 </div>
 
@@ -77,7 +67,7 @@ root@srwncy:~# whoami
 ## 🧮 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serwanyldz&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srwncy&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
 </p>
 
 ---
@@ -85,14 +75,14 @@ root@srwncy:~# whoami
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/serwanyldz/serwanyldz/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/srwncy/srwncy/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🧠 Quote to Live By
 
-> “Code like an artist, deploy like a villain.”  
+> "Code like an artist, deploy like a villain."  
 > — S.Y.
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E65100,100:F57C00&height=120&section=footer)
